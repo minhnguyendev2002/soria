@@ -1,0 +1,57 @@
+.translate-y-transition {
+    &-enter-active, &-leave-active {
+        transition: all .3s;
+    }
+
+    &-enter, &-leave-active, &-enter-from, &-leave-to {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+
+    &-move {
+        transition: all .3s;
+    }
+}
+
+@keyframes zoom {
+    0% {
+        transform: scale(1);
+    } 100% {
+        transform: scale(1.2);
+    }
+}
+
+@keyframes fadeTop {
+    0% {
+        opacity: 0;
+        transform: translateY(0%);
+    } 100% {
+        opacity: 1;
+        transform: translateY(100%);
+    }
+}
+
+.toast-transition {
+    &-enter-active, &-leave-active {
+        transition: all .3s;
+    }
+
+    &-enter, &-leave-active, &-enter-from, &-leave-to {
+        opacity: 0;
+        transform: translateX(100%);
+    }
+
+    &-move {
+        transition: all .3s;
+    }
+
+    &-leave-active {
+        position: absolute;
+    }
+}
+
+// .checkout-dropdown {
+//     &-in {
+//         @apply 
+//     }
+// }

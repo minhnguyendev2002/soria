@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import './transitions.scss';
+@import './icons/isax/style.css';
+@import './icons/isax-bold/style.css';
+@import './transitions.scss';
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css');
+@import './css.css';
+
+html {
+    font-family: 'Kumbh Sans', sans-serif;
+    word-break: break-word !important;
+}
+
+body {
+    @apply text-lg text-dark-100 #{!important};
+}
+
+h1 {
+    @apply text-[75px] font-bold;
+}
+h2 {
+    @apply text-[42px] font-semibold;
+}
+h3 {
+    @apply text-[46px] font-semibold;
+}
+h4 {
+    @apply text-[24px] font-semibold;
+}
+h5 {
+    @apply text-[22px] font-semibold;
+}
+h6 {
+    @apply text-[20px] font-semibold;
+}
+
+.app {
+    min-height: 100vh;
+}
+
+.fade-enter-active, .fade-leave-active {
+    opacity: 1;
+    animation: acrossIn .15s ease-out both, opacity .15s;
+}
+
+.fade-enter, .fade-leave-active {
+    opacity: 0;
+    transition: opacity 0.15s linear;
+}
+
+@keyframes acrossIn {
+    0% {
+        transform: translate3d(-5%, 0, 0);
+    }
+    100% {
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+.shadow-light {
+    box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.1);
+}
