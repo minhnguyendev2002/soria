@@ -119,7 +119,7 @@
                                 <span class="icon lnr lnr-icon-search" />
                             </button>
 
-                            <a href="page-contact.html" class="theme-btn btn-style-one"><span class="btn-title">Get a Quote <i class="fa fa-angle-double-right" /></span></a>
+                            <a href="page-contact.html" class="theme-btn btn-style-one"><span class="btn-title">Get a Quote <i class="fas fa-angle-double-right" /></span></a>
 
                             <button class="ui-btn ui-btn toggle-hidden-bar">
                                 <span class="icon lnr lnr-icon-bars" />
@@ -144,7 +144,7 @@
                                 <a href="index.html"><img src="/images/logo.png" alt="" title=""></a>
                             </div>
                             <div class="close-btn">
-                                <i class="icon fa fa-times" />
+                                <i class="icon fas fa-times" />
                             </div>
                         </div>
 
@@ -191,7 +191,7 @@
                 <div class="search-popup">
                     <span class="search-back-drop" />
                     <button class="close-search">
-                        <span class="fa fa-times" />
+                        <span class="fas fa-times" />
                     </button>
 
                     <div class="search-inner">
@@ -205,7 +205,7 @@
                                     required=""
                                 >
                                 <button type="submit">
-                                    <i class="fa fa-search" />
+                                    <i class="fas fa-search" />
                                 </button>
                             </div>
                         </form>
@@ -255,7 +255,7 @@
                             <a href="index.html"><img src="/images/logo-2.png" alt="" title=""></a>
                         </div>
                         <div class="close-btn">
-                            <i class="icon fa fa-times" />
+                            <i class="icon fas fa-times" />
                         </div>
                     </div>
 
@@ -437,10 +437,10 @@
                         <span class="text-white font-medium text-xl block mt-6 mb-8">Grow your Business With Us Best Business Solutions</span>
                         <div class="flex gap-4">
                             <a href="#" class="theme-btn btn-style-one text-white">
-                                <span class="btn-title">Learn More <i class="fa fa-angle-double-right" /></span>
+                                <span class="btn-title">Learn More <i class="fas fa-angle-double-right" /></span>
                             </a>
                             <a href="#" class="theme-btn btn-style-two text-white">
-                                <span class="btn-title">Our Services <i class="fa fa-angle-double-right" /></span>
+                                <span class="btn-title">Our Services <i class="fas fa-angle-double-right" /></span>
                             </a>
                         </div>
                     </div>
@@ -618,11 +618,11 @@
                                 </div>
 
                                 <ul class="list-style-one">
-                                    <li><i class="fa fa-check" /> Tech Solutions</li>
-                                    <li><i class="fa fa-check" /> IT Consulting</li>
-                                    <li><i class="fa fa-check" /> Web Solutions</li>
-                                    <li><i class="fa fa-check" /> Business Growth</li>
-                                    <li><i class="fa fa-check" /> Product Design</li>
+                                    <li><i class="fas fa-check" /> Tech Solutions</li>
+                                    <li><i class="fas fa-check" /> IT Consulting</li>
+                                    <li><i class="fas fa-check" /> Web Solutions</li>
+                                    <li><i class="fas fa-check" /> Business Growth</li>
+                                    <li><i class="fas fa-check" /> Product Design</li>
                                 </ul>
                             </div>
                         </div>
@@ -677,7 +677,7 @@
                                             <div class="text">
                                                 Sed perspiciatis unde omnis natus error voluptatem
                                             </div>
-                                            <a href="page-service-details.htmlpage-pricing.html" class="read-more"><i class="fa fa-arrow-right" /></a>
+                                            <a href="page-service-details.htmlpage-pricing.html" class="read-more"><i class="fas fa-arrow-right" /></a>
                                         </div>
                                     </div>
                                 </div>
@@ -695,7 +695,7 @@
                                             <div class="text">
                                                 Sed perspiciatis unde omnis natus error voluptatem
                                             </div>
-                                            <a href="page-service-details.htmlpage-pricing.html" class="read-more"><i class="fa fa-arrow-right" /></a>
+                                            <a href="page-service-details.htmlpage-pricing.html" class="read-more"><i class="fas fa-arrow-right" /></a>
                                         </div>
                                     </div>
                                 </div>
@@ -713,7 +713,7 @@
                                             <div class="text">
                                                 Sed perspiciatis unde omnis natus error voluptatem
                                             </div>
-                                            <a href="page-service-details.htmlpage-pricing.html" class="read-more"><i class="fa fa-arrow-right" /></a>
+                                            <a href="page-service-details.htmlpage-pricing.html" class="read-more"><i class="fas fa-arrow-right" /></a>
                                         </div>
                                     </div>
                                 </div>
@@ -731,7 +731,7 @@
                                             <div class="text">
                                                 Sed perspiciatis unde omnis natus error voluptatem
                                             </div>
-                                            <a href="page-service-details.htmlpage-pricing.html" class="read-more"><i class="fa fa-arrow-right" /></a>
+                                            <a href="page-service-details.htmlpage-pricing.html" class="read-more"><i class="fas fa-arrow-right" /></a>
                                         </div>
                                     </div>
                                 </div>
@@ -749,7 +749,7 @@
                                             <div class="text">
                                                 Sed perspiciatis unde omnis natus error voluptatem
                                             </div>
-                                            <a href="page-service-details.htmlpage-pricing.html" class="read-more"><i class="fa fa-arrow-right" /></a>
+                                            <a href="page-service-details.htmlpage-pricing.html" class="read-more"><i class="fas fa-arrow-right" /></a>
                                         </div>
                                     </div>
                                 </div>
@@ -776,9 +776,9 @@
                                 <!-- Counter block-->
                                 <div class="counter-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
                                     <div class="inner">
-                                        <i class="icon fal fa-badge-check" />
+                                        <!-- <i class="far fa-check-circle text-[#00e4ff] text-xl" /> -->
                                         <div class="count-box">
-                                            <span class="count-text" data-speed="3000" data-stop="38">0</span>
+                                            <span class="count-text" data-speed="3000" data-stop="38">80</span>
                                         </div>
                                         <h4 class="counter-title">
                                             Years Of <br>Experience
@@ -789,9 +789,9 @@
                                 <!--Counter block-->
                                 <div class="counter-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="300ms">
                                     <div class="inner">
-                                        <i class="icon fal fa-badge-check" />
+                                        <!-- <i class="far fa-check-circle text-[#00e4ff] text-xl" /> -->
                                         <div class="count-box">
-                                            <span class="count-text" data-speed="3000" data-stop="5">0</span>k
+                                            <span class="count-text" data-speed="3000" data-stop="5">1</span>k
                                         </div>
                                         <h4 class="counter-title">
                                             Projects <br>Complete
@@ -802,9 +802,9 @@
                                 <!--Counter block-->
                                 <div class="counter-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="600ms">
                                     <div class="inner">
-                                        <i class="icon fal fa-badge-check" />
+                                        <!-- <i class="far fa-check-circle text-[#00e4ff] text-xl" /> -->
                                         <div class="count-box">
-                                            <span class="count-text" data-speed="3000" data-stop="42">0</span>
+                                            <span class="count-text" data-speed="3000" data-stop="42">18</span>
                                         </div>
                                         <h4 class="counter-title">
                                             Professional <br>Team Member
@@ -815,9 +815,9 @@
                                 <!--Counter block-->
                                 <div class="counter-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="900ms">
                                     <div class="inner">
-                                        <i class="icon fal fa-badge-check" />
+                                        <!-- <i class="far fa-check-circle text-[#00e4ff] text-xl" /> -->
                                         <div class="count-box">
-                                            <span class="count-text" data-speed="3000" data-stop="96">0</span>
+                                            <span class="count-text" data-speed="3000" data-stop="96">99</span>
                                         </div>
                                         <h4 class="counter-title">
                                             Best Awards <br>Winning
@@ -833,7 +833,7 @@
 
             <!-- Pricing Section -->
             <section class="pricing-section pull-up">
-                <div class="bg bg-pattern-3" />
+                <div class="absolute w-full h-full bg-cover top-0 bg-[url('/images/icons/pattern-3.jpg')]" />
                 <div class="auto-container">
                     <div class="sec-title text-center">
                         <span class="float-text">Pricing</span>
@@ -857,15 +857,18 @@
                                 </div>
                                 <div class="info-box">
                                     <ul class="features">
-                                        <li>Design & Development</li>
-                                        <li>Marketing Strategy</li>
-                                        <li>Project Management</li>
-                                        <li>Consulting</li>
+                                        <li>
+                                            <i class="text-primary-100 text-2xl mr-3 fas fa-caret-right" />
+                                            Design & Development
+                                        </li>
+                                        <li><i class="text-primary-100 text-2xl mr-3 fas fa-caret-right" />Marketing Strategy</li>
+                                        <li><i class="text-primary-100 text-2xl mr-3 fas fa-caret-right" />Project Management</li>
+                                        <li><i class="text-primary-100 text-2xl mr-3 fas fa-caret-right" />Consulting</li>
                                         <li class="false">
-                                            Custome Design
+                                            <i class="text-primary-100 text-2xl mr-3 fas fa-caret-right" />Custome Design
                                         </li>
                                     </ul>
-                                    <a href="page-pricing.html" class="theme-btn btn-style-three"><span class="btn-title">Choose Plan <i class="fa fa-angle-double-right" /></span></a>
+                                    <a href="page-pricing.html" class="theme-btn btn-style-three"><span class="btn-title">Choose Plan <i class="fas fa-angle-double-right" /></span></a>
                                 </div>
                             </div>
                         </div>
@@ -886,15 +889,15 @@
                                 </div>
                                 <div class="info-box">
                                     <ul class="features">
-                                        <li>Design & Development</li>
-                                        <li>Marketing Strategy</li>
-                                        <li>Project Management</li>
-                                        <li>Consulting</li>
+                                        <li><i class="text-primary-100 text-2xl mr-3 fas fa-caret-right" />Design & Development</li>
+                                        <li><i class="text-primary-100 text-2xl mr-3 fas fa-caret-right" />Marketing Strategy</li>
+                                        <li><i class="text-primary-100 text-2xl mr-3 fas fa-caret-right" />Project Management</li>
+                                        <li><i class="text-primary-100 text-2xl mr-3 fas fa-caret-right" />Consulting</li>
                                         <li class="false">
-                                            Custome Design
+                                            <i class="text-primary-100 text-2xl mr-3 fas fa-caret-right" />Custome Design
                                         </li>
                                     </ul>
-                                    <a href="page-pricing.html" class="theme-btn btn-style-three"><span class="btn-title">Choose Plan <i class="fa fa-angle-double-right" /></span></a>
+                                    <a href="page-pricing.html" class="theme-btn btn-style-three"><span class="btn-title">Choose Plan <i class="fas fa-angle-double-right" /></span></a>
                                 </div>
                             </div>
                         </div>
@@ -915,15 +918,15 @@
                                 </div>
                                 <div class="info-box">
                                     <ul class="features">
-                                        <li>Design & Development</li>
-                                        <li>Marketing Strategy</li>
-                                        <li>Project Management</li>
-                                        <li>Consulting</li>
+                                        <li><i class="text-primary-100 text-2xl mr-3 fas fa-caret-right" />Design & Development</li>
+                                        <li><i class="text-primary-100 text-2xl mr-3 fas fa-caret-right" />Marketing Strategy</li>
+                                        <li><i class="text-primary-100 text-2xl mr-3 fas fa-caret-right" />Project Management</li>
+                                        <li><i class="text-primary-100 text-2xl mr-3 fas fa-caret-right" />Consulting</li>
                                         <li class="false">
-                                            Custome Design
+                                            <i class="text-primary-100 text-2xl mr-3 fas fa-caret-right" />Custome Design
                                         </li>
                                     </ul>
-                                    <a href="page-pricing.html" class="theme-btn btn-style-three"><span class="btn-title">Choose Plan <i class="fa fa-angle-double-right" /></span></a>
+                                    <a href="page-pricing.html" class="theme-btn btn-style-three"><span class="btn-title">Choose Plan <i class="fas fa-angle-double-right" /></span></a>
                                 </div>
                             </div>
                         </div>
@@ -944,15 +947,15 @@
                                 </div>
                                 <div class="info-box">
                                     <ul class="features">
-                                        <li>Design & Development</li>
-                                        <li>Marketing Strategy</li>
-                                        <li>Project Management</li>
-                                        <li>Consulting</li>
+                                        <li><i class="text-primary-100 text-2xl mr-3 fas fa-caret-right" />Design & Development</li>
+                                        <li><i class="text-primary-100 text-2xl mr-3 fas fa-caret-right" />Marketing Strategy</li>
+                                        <li><i class="text-primary-100 text-2xl mr-3 fas fa-caret-right" />Project Management</li>
+                                        <li><i class="text-primary-100 text-2xl mr-3 fas fa-caret-right" />Consulting</li>
                                         <li class="false">
-                                            Custome Design
+                                            <i class="text-primary-100 text-2xl mr-3 fas fa-caret-right" />Custome Design
                                         </li>
                                     </ul>
-                                    <a href="page-pricing.html" class="theme-btn btn-style-three"><span class="btn-title">Choose Plan <i class="fa fa-angle-double-right" /></span></a>
+                                    <a href="page-pricing.html" class="theme-btn btn-style-three"><span class="btn-title">Choose Plan <i class="fas fa-angle-double-right" /></span></a>
                                 </div>
                             </div>
                         </div>
@@ -987,7 +990,7 @@
                                                     <a href="#"><i class="fab fa-pinterest-p" /></a>
                                                     <a href="#"><i class="fab fa-instagram" /></a>
                                                 </div>
-                                                <span class="share-icon fa fa-share-alt" />
+                                                <span class="share-icon fas fa-share-alt" />
                                             </div>
                                             <div class="info-box">
                                                 <span class="designation">designer</span>
@@ -1013,7 +1016,7 @@
                                                     <a href="#"><i class="fab fa-pinterest-p" /></a>
                                                     <a href="#"><i class="fab fa-instagram" /></a>
                                                 </div>
-                                                <span class="share-icon fa fa-share-alt" />
+                                                <span class="share-icon fas fa-share-alt" />
                                             </div>
                                             <div class="info-box">
                                                 <span class="designation">Co founder of mizox</span>
@@ -1039,7 +1042,7 @@
                                                     <a href="#"><i class="fab fa-pinterest-p" /></a>
                                                     <a href="#"><i class="fab fa-instagram" /></a>
                                                 </div>
-                                                <span class="share-icon fa fa-share-alt" />
+                                                <span class="share-icon fas fa-share-alt" />
                                             </div>
                                             <div class="info-box">
                                                 <span class="designation">designer</span>
@@ -1065,7 +1068,7 @@
                                                     <a href="#"><i class="fab fa-pinterest-p" /></a>
                                                     <a href="#"><i class="fab fa-instagram" /></a>
                                                 </div>
-                                                <span class="share-icon fa fa-share-alt" />
+                                                <span class="share-icon fas fa-share-alt" />
                                             </div>
                                             <div class="info-box">
                                                 <span class="designation">designer</span>
@@ -1091,7 +1094,7 @@
                                                     <a href="#"><i class="fab fa-pinterest-p" /></a>
                                                     <a href="#"><i class="fab fa-instagram" /></a>
                                                 </div>
-                                                <span class="share-icon fa fa-share-alt" />
+                                                <span class="share-icon fas fa-share-alt" />
                                             </div>
                                             <div class="info-box">
                                                 <span class="designation">Co founder of mizox</span>
@@ -1117,7 +1120,7 @@
                                                     <a href="#"><i class="fab fa-pinterest-p" /></a>
                                                     <a href="#"><i class="fab fa-instagram" /></a>
                                                 </div>
-                                                <span class="share-icon fa fa-share-alt" />
+                                                <span class="share-icon fas fa-share-alt" />
                                             </div>
                                             <div class="info-box">
                                                 <span class="designation">designer</span>
@@ -1161,7 +1164,7 @@
                                                     <div class="rating-box">
                                                         <span class="reason">Good Quality</span>
                                                         <div class="rating">
-                                                            <i class="fa fa-star" /><i class="fa fa-star" /><i class="fa fa-star" /><i class="fa fa-star" /><i class="fa fa-star" />
+                                                            <i class="fas fa-star" /><i class="fas fa-star" /><i class="fas fa-star" /><i class="fas fa-star" /><i class="fas fa-star" />
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1193,7 +1196,7 @@
                                                     <div class="rating-box">
                                                         <span class="reason">Good Quality</span>
                                                         <div class="rating">
-                                                            <i class="fa fa-star" /><i class="fa fa-star" /><i class="fa fa-star" /><i class="fa fa-star" /><i class="fa fa-star" />
+                                                            <i class="fas fa-star" /><i class="fas fa-star" /><i class="fas fa-star" /><i class="fas fa-star" /><i class="fas fa-star" />
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1225,7 +1228,7 @@
                                                     <div class="rating-box">
                                                         <span class="reason">Good Quality</span>
                                                         <div class="rating">
-                                                            <i class="fa fa-star" /><i class="fa fa-star" /><i class="fa fa-star" /><i class="fa fa-star" /><i class="fa fa-star" />
+                                                            <i class="fas fa-star" /><i class="fas fa-star" /><i class="fas fa-star" /><i class="fas fa-star" /><i class="fas fa-star" />
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1281,7 +1284,7 @@
                                     <figure class="image">
                                         <a href="news-details.html"><img src="/images/resource/news-1.jpg" alt=""></a>
                                     </figure>
-                                    <a href="news-details.html" class="read-more"><i class="fa fa-arrow-right" /></a>
+                                    <a href="news-details.html" class="read-more"><i class="fas fa-arrow-right" /></a>
                                 </div>
                                 <div class="content-box">
                                     <div class="post-info">
@@ -1310,7 +1313,7 @@
                                     <figure class="image">
                                         <a href="news-details.html"><img src="/images/resource/news-2.jpg" alt=""></a>
                                     </figure>
-                                    <a href="news-details.html" class="read-more"><i class="fa fa-arrow-right" /></a>
+                                    <a href="news-details.html" class="read-more"><i class="fas fa-arrow-right" /></a>
                                 </div>
                                 <div class="content-box">
                                     <div class="post-info">
@@ -1338,7 +1341,7 @@
 
             <!-- Main Footer -->
             <footer class="main-footer">
-                <div class="bg bg-pattern-4" />
+                <div class="absolute w-full h-full bg-cover top-0 bg-[url('/images/icons/pattern-4.png')]" />
                 <div class="anim-icons">
                     <span class="icon icon-circle-1 bounce-x" />
                     <span class="icon icon-circle-2 bounce-x" />
@@ -1369,10 +1372,10 @@
                                                     placeholder="Email Address"
                                                     required=""
                                                 >
-                                                <i class="icon fa fa-envelope" />
+                                                <i class="icon fas fa-envelope" />
                                             </div>
                                             <button type="button" class="theme-btn submit-btn">
-                                                <span class="btn-title">Sing Up <i class="fa fa-angle-double-right" /></span>
+                                                <span class="btn-title">Sing Up <i class="fas fa-angle-double-right" /></span>
                                             </button>
                                         </form>
                                     </div>
@@ -1450,7 +1453,7 @@
 
         <!-- Scroll To Top -->
         <div class="scroll-to-top scroll-to-target" data-target="html">
-            <span class="fa fa-angle-up" />
+            <span class="fas fa-angle-up" />
         </div>
     </div>
 </template>

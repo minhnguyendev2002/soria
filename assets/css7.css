@@ -584,25 +584,11 @@
   .pricing-block .features li {
     position: relative;
     display: block;
-    padding-left: 30px;
     font-size: 18px;
     line-height: 30px;
     color: #67687a;
     font-weight: 400;
     margin-bottom: 14px;
-  }
-  .pricing-block .features li:before {
-    position: absolute;
-    left: 0;
-    top: 0;
-    line-height: 30px;
-    text-align: center;
-    border-radius: 50%;
-    font-weight: 400;
-    font-size: 18px;
-    color: var(--theme-color3);
-    content: "\f138";
-    font-family: "Font Awesome 6 Pro";
   }
   .pricing-block .features li.false:before {
     color: #67687a;
