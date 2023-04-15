@@ -972,170 +972,7 @@
                         <h2>Meet our Professional <br>Team Members</h2>
                     </div>
 
-                    <div class="carousel-outer">
-                        <!-- Swiper -->
-                        <div class="swiper team-slider">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <!-- Team block -->
-                                    <div class="team-block-two">
-                                        <div class="inner-box">
-                                            <div class="image-box">
-                                                <figure class="image">
-                                                    <a href="page-team-details.html"><img src="/images/resource/team-1.jpg" alt=""></a>
-                                                </figure>
-                                                <div class="social-links">
-                                                    <a href="#"><i class="fab fa-twitter" /></a>
-                                                    <a href="#"><i class="fab fa-facebook-f" /></a>
-                                                    <a href="#"><i class="fab fa-pinterest-p" /></a>
-                                                    <a href="#"><i class="fab fa-instagram" /></a>
-                                                </div>
-                                                <span class="share-icon fas fa-share-alt" />
-                                            </div>
-                                            <div class="info-box">
-                                                <span class="designation">designer</span>
-                                                <h4 class="name">
-                                                    <a href="page-team-details.html">Aleesha brown</a>
-                                                </h4>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="swiper-slide">
-                                    <!-- Team block -->
-                                    <div class="team-block-two">
-                                        <div class="inner-box">
-                                            <div class="image-box">
-                                                <figure class="image">
-                                                    <a href="page-team-details.html"><img src="/images/resource/team-2.jpg" alt=""></a>
-                                                </figure>
-                                                <div class="social-links">
-                                                    <a href="#"><i class="fab fa-twitter" /></a>
-                                                    <a href="#"><i class="fab fa-facebook-f" /></a>
-                                                    <a href="#"><i class="fab fa-pinterest-p" /></a>
-                                                    <a href="#"><i class="fab fa-instagram" /></a>
-                                                </div>
-                                                <span class="share-icon fas fa-share-alt" />
-                                            </div>
-                                            <div class="info-box">
-                                                <span class="designation">Co founder of mizox</span>
-                                                <h4 class="name">
-                                                    <a href="page-team-details.html">Kevin martin</a>
-                                                </h4>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="swiper-slide">
-                                    <!-- Team block -->
-                                    <div class="team-block-two">
-                                        <div class="inner-box">
-                                            <div class="image-box">
-                                                <figure class="image">
-                                                    <a href="page-team-details.html"><img src="/images/resource/team-3.jpg" alt=""></a>
-                                                </figure>
-                                                <div class="social-links">
-                                                    <a href="#"><i class="fab fa-twitter" /></a>
-                                                    <a href="#"><i class="fab fa-facebook-f" /></a>
-                                                    <a href="#"><i class="fab fa-pinterest-p" /></a>
-                                                    <a href="#"><i class="fab fa-instagram" /></a>
-                                                </div>
-                                                <span class="share-icon fas fa-share-alt" />
-                                            </div>
-                                            <div class="info-box">
-                                                <span class="designation">designer</span>
-                                                <h4 class="name">
-                                                    <a href="page-team-details.html">Christine eve</a>
-                                                </h4>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="swiper-slide">
-                                    <!-- Team block -->
-                                    <div class="team-block-two">
-                                        <div class="inner-box">
-                                            <div class="image-box">
-                                                <figure class="image">
-                                                    <a href="page-team-details.html"><img src="/images/resource/team-1.jpg" alt=""></a>
-                                                </figure>
-                                                <div class="social-links">
-                                                    <a href="#"><i class="fab fa-twitter" /></a>
-                                                    <a href="#"><i class="fab fa-facebook-f" /></a>
-                                                    <a href="#"><i class="fab fa-pinterest-p" /></a>
-                                                    <a href="#"><i class="fab fa-instagram" /></a>
-                                                </div>
-                                                <span class="share-icon fas fa-share-alt" />
-                                            </div>
-                                            <div class="info-box">
-                                                <span class="designation">designer</span>
-                                                <h4 class="name">
-                                                    <a href="page-team-details.html">Aleesha brown</a>
-                                                </h4>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="swiper-slide">
-                                    <!-- Team block -->
-                                    <div class="team-block-two">
-                                        <div class="inner-box">
-                                            <div class="image-box">
-                                                <figure class="image">
-                                                    <a href="page-team-details.html"><img src="/images/resource/team-2.jpg" alt=""></a>
-                                                </figure>
-                                                <div class="social-links">
-                                                    <a href="#"><i class="fab fa-twitter" /></a>
-                                                    <a href="#"><i class="fab fa-facebook-f" /></a>
-                                                    <a href="#"><i class="fab fa-pinterest-p" /></a>
-                                                    <a href="#"><i class="fab fa-instagram" /></a>
-                                                </div>
-                                                <span class="share-icon fas fa-share-alt" />
-                                            </div>
-                                            <div class="info-box">
-                                                <span class="designation">Co founder of mizox</span>
-                                                <h4 class="name">
-                                                    <a href="page-team-details.html">Kevin martin</a>
-                                                </h4>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="swiper-slide">
-                                    <!-- Team block -->
-                                    <div class="team-block-two">
-                                        <div class="inner-box">
-                                            <div class="image-box">
-                                                <figure class="image">
-                                                    <a href="page-team-details.html"><img src="/images/resource/team-3.jpg" alt=""></a>
-                                                </figure>
-                                                <div class="social-links">
-                                                    <a href="#"><i class="fab fa-twitter" /></a>
-                                                    <a href="#"><i class="fab fa-facebook-f" /></a>
-                                                    <a href="#"><i class="fab fa-pinterest-p" /></a>
-                                                    <a href="#"><i class="fab fa-instagram" /></a>
-                                                </div>
-                                                <span class="share-icon fas fa-share-alt" />
-                                            </div>
-                                            <div class="info-box">
-                                                <span class="designation">designer</span>
-                                                <h4 class="name">
-                                                    <a href="page-team-details.html">Christine eve</a>
-                                                </h4>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="swiper-pagination styled-pagination" />
-                        </div>
-                    </div>
+                    <OurTeamSlide />
                 </div>
             </section>
             <!-- End Team Section -->
@@ -1150,9 +987,8 @@
                                 <span class="float-text">say’s</span>
                                 <h2>People’s Say About Our <br>Support & Services</h2>
                             </div>
-                            <div class="carousel-outer">
+                            <!-- <div class="carousel-outer">
                                 <div class="testimonial-carousel owl-carousel owl-theme default-dots">
-                                    <!-- Testimonial Block -->
                                     <div class="testimonial-block">
                                         <div class="inner-box">
                                             <figure class="image">
@@ -1184,7 +1020,6 @@
                                         </div>
                                     </div>
 
-                                    <!-- Testimonial Block -->
                                     <div class="testimonial-block">
                                         <div class="inner-box">
                                             <figure class="image">
@@ -1216,7 +1051,6 @@
                                         </div>
                                     </div>
 
-                                    <!-- Testimonial Block -->
                                     <div class="testimonial-block">
                                         <div class="inner-box">
                                             <figure class="image">
@@ -1248,7 +1082,8 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
+                            <TestSlide />
                         </div>
 
                         <!-- Image column -->
@@ -1459,8 +1294,14 @@
 </template>
 
 <script>
+    import TestSlide from '@/components/home/Testmions.vue';
+    import OurTeamSlide from '@/components/home/OurTeam.vue';
+
     export default {
-        auth: false,
+        components:{
+            TestSlide,
+            OurTeamSlide,
+        },
 
         head() {
             return {
