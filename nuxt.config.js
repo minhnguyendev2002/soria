@@ -26,14 +26,29 @@ export default {
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
             { hid: 'description', name: 'description', content: '' },
             { name: 'format-detection', content: 'telephone=no' },
+            { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css' },
+            { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/swiper@9.1.1/modules/scrollbar/scrollbar.min.css' },
         ],
-        link: [
-            { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+        script: [
+            { src: 'scripts/popper.min.js' },
+            { src: 'scripts/bootstrap.min.js' },
+            {
+                src: 'https://code.jquery.com/jquery-3.3.1.slim.min.js',
+                type: 'text/javascript',
+            },
+            {
+                src: 'https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js',
+                type: 'text/javascript',
+            },
+            {
+                src: 'https://cdn.jsdelivr.net/npm/swiper@9.1.1/swiper-bundle.min.js',
+                type: 'text/javascript',
+            },
         ],
     },
-
     css: [
         '@/assets/main.scss',
+        '@/assets/custom.scss',
         '@/assets/ant/main.less',
         '@fortawesome/fontawesome-free/css/all.css',
     ],
@@ -44,6 +59,14 @@ export default {
         '@/plugins/ant-design',
         '@/plugins/filters',
         '@/plugins/global-components',
+        { src: '@/plugins/scripts/appear', ssr: false },
+        // { src: '@/plugins/scripts/select2', ssr: false },
+        { src: '@/plugins/scripts/jquery.fancybox', ssr: false },
+        { src: '@/plugins/scripts/main-slider-script', ssr: false },
+        { src: '@/plugins/scripts/owl', ssr: false },
+        // { src: '@/plugins/scripts/swiper.min', ssr: false },
+        { src: '@/plugins/scripts/wow', ssr: false },
+        // { src: '@/plugins/scripts/script', ssr: false },
     ],
 
     robots: [
@@ -71,7 +94,7 @@ export default {
 
     buildModules: [
         '@nuxt/postcss8',
-        '@nuxtjs/eslint-module',
+        // '@nuxtjs/eslint-module',
         '@nuxtjs/fontawesome',
         '@nuxtjs/tailwindcss',
         '@nuxtjs/google-analytics',

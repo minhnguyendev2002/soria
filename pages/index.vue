@@ -2,7 +2,7 @@
     <div>
         <div class="page-wrapper">
             <!-- Preloader -->
-            <div class="preloader" />
+            <!-- <div class="preloader" /> -->
 
             <!-- Main Header-->
             <header class="main-header header-style-one">
@@ -11,7 +11,7 @@
                     <div class="main-box">
                         <div class="logo-box">
                             <div class="logo">
-                                <a href="index.html"><img src="images/logo.png" alt="" title="Tronis"></a>
+                                <a href="index.html"><img src="/images/logo.png" alt="" title="Tronis"></a>
                             </div>
                         </div>
 
@@ -141,7 +141,7 @@
                     <nav class="menu-box">
                         <div class="upper-box">
                             <div class="nav-logo">
-                                <a href="index.html"><img src="images/logo.png" alt="" title=""></a>
+                                <a href="index.html"><img src="/images/logo.png" alt="" title=""></a>
                             </div>
                             <div class="close-btn">
                                 <i class="icon fa fa-times" />
@@ -219,7 +219,7 @@
                         <div class="inner-container">
                             <!--Logo-->
                             <div class="logo">
-                                <a href="index.html" title=""><img src="images/logo-2.png" alt="" title=""></a>
+                                <a href="index.html" title=""><img src="/images/logo-2.png" alt="" title=""></a>
                             </div>
 
                             <!--Right Col-->
@@ -252,7 +252,7 @@
                 <div class="inner-box">
                     <div class="upper-box">
                         <div class="nav-logo">
-                            <a href="index.html"><img src="images/logo-2.png" alt="" title=""></a>
+                            <a href="index.html"><img src="/images/logo-2.png" alt="" title=""></a>
                         </div>
                         <div class="close-btn">
                             <i class="icon fa fa-times" />
@@ -304,12 +304,11 @@
                 </div>
             </section>
 
-            <section class="main-slider">
+            <!-- <section class="main-slider">
                 <div id="rev_slider_one_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery">
                     <div id="rev_slider_one" class="rev_slider fullwidthabanner" data-version="5.4.1">
                         <ul>
                             <li data-index="rs-1" data-transition="fade">
-                                <!-- MAIN IMAGE -->
                                 <img
                                     alt=""
                                     class="rev-slidebg"
@@ -318,7 +317,7 @@
                                     data-bgposition="center center"
                                     data-bgrepeat="no-repeat"
                                     data-no-retina=""
-                                    src="images/main-slider/main-bg.jpg"
+                                    src="/images/main-slider/main-bg.jpg"
                                 >
 
                                 <div
@@ -338,7 +337,7 @@
                                     data-y="['middle','middle','middle','middle']"
                                     data-frames="[{&quot;from&quot;:&quot;x:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:1000,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;mask&quot;:&quot;x:0;y:0;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 >
-                                    <figure><img src="images/main-slider/object-1.png" alt=""></figure>
+                                    <figure><img src="/images/main-slider/object-1.png" alt=""></figure>
                                 </div>
 
                                 <div
@@ -358,7 +357,7 @@
                                     data-y="['middle','middle','middle','middle']"
                                     data-frames="[{&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:1500,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:3000,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;mask&quot;:&quot;x:0;y:0;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 >
-                                    <figure><img src="images/main-slider/object-2.png" alt=""></figure>
+                                    <figure><img src="/images/main-slider/object-2.png" alt=""></figure>
                                 </div>
 
                                 <div
@@ -378,7 +377,7 @@
                                     data-y="['middle','middle','middle','middle']"
                                     data-frames="[{&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:2000,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:3000,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;mask&quot;:&quot;x:0;y:0;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 >
-                                    <figure><img src="images/main-slider/object-3.png" alt=""></figure>
+                                    <figure><img src="/images/main-slider/object-3.png" alt=""></figure>
                                 </div>
 
                                 <div
@@ -398,7 +397,7 @@
                                     data-y="['top','top','top','top']"
                                     data-frames="[{&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:2000,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:3000,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;mask&quot;:&quot;x:0;y:0;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 >
-                                    <figure><img src="images/main-slider/object-4.png" alt=""></figure>
+                                    <figure><img src="/images/main-slider/object-4.png" alt=""></figure>
                                 </div>
 
                                 <div
@@ -419,256 +418,36 @@
                                     data-frames="[{&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:1000,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:3000,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;mask&quot;:&quot;x:0;y:0;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 >
                                     <figure class="main-image">
-                                        <img src="images/main-slider/main-image.png" alt="">
+                                        <img src="/images/main-slider/main-image.png" alt="">
                                     </figure>
-                                </div>
-
-                                <div
-                                    class="tp-caption"
-                                    data-paddingbottom="[0,0,0,0]"
-                                    data-paddingleft="[15,15,15,15]"
-                                    data-paddingright="[15,15,15,15]"
-                                    data-paddingtop="[0,0,0,0]"
-                                    data-responsive_offset="on"
-                                    data-type="text"
-                                    data-height="none"
-                                    data-width="['750','750','750','650']"
-                                    data-whitespace="normal"
-                                    data-hoffset="['0','0','0','0']"
-                                    data-voffset="['-120','-120','-100','-80']"
-                                    data-x="['left','left','left','left']"
-                                    data-y="['middle','middle','middle','middle']"
-                                    data-textalign="['top','top','top','top']"
-                                    data-frames="[{&quot;delay&quot;:1000,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
-                                >
-                                    <h1>We Provide <br>Smart Business<br> Solutions</h1>
-                                </div>
-
-                                <div
-                                    class="tp-caption"
-                                    data-paddingbottom="[0,0,0,0]"
-                                    data-paddingleft="[15,15,15,15]"
-                                    data-paddingright="[0,0,0,0]"
-                                    data-paddingtop="[0,0,0,0]"
-                                    data-responsive_offset="on"
-                                    data-type="text"
-                                    data-height="none"
-                                    data-width="['750','750','750','450']"
-                                    data-whitespace="normal"
-                                    data-hoffset="['0','0','0','0']"
-                                    data-voffset="['30','30','60','70']"
-                                    data-x="['left','left','left','left']"
-                                    data-y="['middle','middle','middle','middle']"
-                                    data-textalign="['top','top','top','top']"
-                                    data-frames="[{&quot;delay&quot;:1000,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
-                                >
-                                    <span class="text">Grow your Business With Us Best Business Solutions</span>
-                                </div>
-
-                                <div
-                                    class="tp-caption"
-                                    data-paddingbottom="[0,0,0,0]"
-                                    data-paddingleft="[15,15,15,15]"
-                                    data-paddingright="[15,15,15,15]"
-                                    data-paddingtop="[0,0,0,0]"
-                                    data-responsive_offset="on"
-                                    data-type="text"
-                                    data-height="none"
-                                    data-width="['700','750','700','650']"
-                                    data-whitespace="normal"
-                                    data-hoffset="['0','0','0','0']"
-                                    data-voffset="['120','120','150','170']"
-                                    data-x="['left','left','left','left']"
-                                    data-y="['middle','middle','middle','middle']"
-                                    data-textalign="['top','top','top','top']"
-                                    data-frames="[{&quot;delay&quot;:1000,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
-                                >
-                                    <a href="#" class="theme-btn btn-style-one"><span class="btn-title">Learn More <i class="fa fa-angle-double-right" /></span></a>
-                                    <a href="#" class="theme-btn btn-style-two"><span class="btn-title">Our Services <i class="fa fa-angle-double-right" /></span></a>
-                                </div>
-                            </li>
-
-                            <!-- Slide 1 -->
-                            <li data-index="rs-2" data-transition="fade">
-                                <!-- MAIN IMAGE -->
-                                <img
-                                    alt=""
-                                    class="rev-slidebg"
-                                    data-bgfit="cover"
-                                    data-bgparallax="20"
-                                    data-bgposition="center center"
-                                    data-bgrepeat="no-repeat"
-                                    data-no-retina=""
-                                    src="images/main-slider/main-bg.jpg"
-                                >
-
-                                <div
-                                    class="tp-caption tp-shape tp-shapewrapper tp-resizeme big-ipad-hidden rs-parallaxlevel-1"
-                                    data-paddingbottom="[0,0,0,0]"
-                                    data-paddingleft="[0,0,0,0]"
-                                    data-paddingright="[0,0,0,0]"
-                                    data-paddingtop="[0,0,0,0]"
-                                    data-responsive_offset="on"
-                                    data-type="shape"
-                                    data-height="auto"
-                                    data-whitespace="nowrap"
-                                    data-width="none"
-                                    data-hoffset="['-250','-250','-250','-250']"
-                                    data-voffset="['-210','-210','-210','-210']"
-                                    data-x="['left','left','left','left']"
-                                    data-y="['middle','middle','middle','middle']"
-                                    data-frames="[{&quot;from&quot;:&quot;x:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:1000,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;mask&quot;:&quot;x:0;y:0;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
-                                >
-                                    <figure><img src="images/main-slider/object-1.png" alt=""></figure>
-                                </div>
-
-                                <div
-                                    class="tp-caption tp-resizeme rs-parallaxlevel-2 ipad-hidden"
-                                    data-paddingbottom="[0,0,0,0]"
-                                    data-paddingleft="[0,0,0,0]"
-                                    data-paddingright="[0,0,0,0]"
-                                    data-paddingtop="[0,0,0,0]"
-                                    data-responsive_offset="on"
-                                    data-type="shape"
-                                    data-height="none"
-                                    data-whitespace="nowrap"
-                                    data-width="none"
-                                    data-hoffset="['-200','-200','-200','-200']"
-                                    data-voffset="['-80','-80','-80','-80']"
-                                    data-x="['right','right','right','right']"
-                                    data-y="['middle','middle','middle','middle']"
-                                    data-frames="[{&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:1500,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:3000,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;mask&quot;:&quot;x:0;y:0;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
-                                >
-                                    <figure><img src="images/main-slider/object-2.png" alt=""></figure>
-                                </div>
-
-                                <div
-                                    class="tp-caption tp-resizeme rs-parallaxlevel-3 ipad-hidden"
-                                    data-paddingbottom="[0,0,0,0]"
-                                    data-paddingleft="[0,0,0,0]"
-                                    data-paddingright="[0,0,0,0]"
-                                    data-paddingtop="[0,0,0,0]"
-                                    data-responsive_offset="on"
-                                    data-type="shape"
-                                    data-height="none"
-                                    data-whitespace="nowrap"
-                                    data-width="none"
-                                    data-hoffset="['-170','-170','-170','-170']"
-                                    data-voffset="['180','180','180','180']"
-                                    data-x="['left','left','left','left']"
-                                    data-y="['middle','middle','middle','middle']"
-                                    data-frames="[{&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:2000,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:3000,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;mask&quot;:&quot;x:0;y:0;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
-                                >
-                                    <figure><img src="images/main-slider/object-3.png" alt=""></figure>
-                                </div>
-
-                                <div
-                                    class="tp-caption tp-resizeme rs-parallaxlevel-1 ipad-hidden"
-                                    data-paddingbottom="[0,0,0,0]"
-                                    data-paddingleft="[0,0,0,0]"
-                                    data-paddingright="[0,0,0,0]"
-                                    data-paddingtop="[0,0,0,0]"
-                                    data-responsive_offset="on"
-                                    data-type="shape"
-                                    data-height="none"
-                                    data-whitespace="nowrap"
-                                    data-width="none"
-                                    data-hoffset="['-140','-140','-140','-140']"
-                                    data-voffset="['170','-1170','-1170','-1170']"
-                                    data-x="['center','center','center','center']"
-                                    data-y="['top','top','top','top']"
-                                    data-frames="[{&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:2000,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:3000,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;mask&quot;:&quot;x:0;y:0;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
-                                >
-                                    <figure><img src="images/main-slider/object-4.png" alt=""></figure>
-                                </div>
-
-                                <div
-                                    class="tp-caption tp-resizeme rs-parallaxlevel-3 ipad-hidden"
-                                    data-paddingbottom="[0,0,0,0]"
-                                    data-paddingleft="[0,0,0,0]"
-                                    data-paddingright="[0,0,0,0]"
-                                    data-paddingtop="[0,0,0,0]"
-                                    data-responsive_offset="on"
-                                    data-type="shape"
-                                    data-height="none"
-                                    data-whitespace="nowrap"
-                                    data-width="none"
-                                    data-hoffset="['-140','-140','-140','-140']"
-                                    data-voffset="['30','30','30','30']"
-                                    data-x="['right','right','right','right']"
-                                    data-y="['middle','middle','middle','middle']"
-                                    data-frames="[{&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:1000,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:3000,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;mask&quot;:&quot;x:0;y:0;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
-                                >
-                                    <figure class="main-image">
-                                        <img src="images/main-slider/main-image.png" alt="">
-                                    </figure>
-                                </div>
-
-                                <div
-                                    class="tp-caption"
-                                    data-paddingbottom="[0,0,0,0]"
-                                    data-paddingleft="[15,15,15,15]"
-                                    data-paddingright="[15,15,15,15]"
-                                    data-paddingtop="[0,0,0,0]"
-                                    data-responsive_offset="on"
-                                    data-type="text"
-                                    data-height="none"
-                                    data-width="['750','750','750','650']"
-                                    data-whitespace="normal"
-                                    data-hoffset="['0','0','0','0']"
-                                    data-voffset="['-120','-120','-100','-80']"
-                                    data-x="['left','left','left','left']"
-                                    data-y="['middle','middle','middle','middle']"
-                                    data-textalign="['top','top','top','top']"
-                                    data-frames="[{&quot;delay&quot;:1000,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
-                                >
-                                    <h1>We Provide <br>Smart Business<br> Solutions</h1>
-                                </div>
-
-                                <div
-                                    class="tp-caption"
-                                    data-paddingbottom="[0,0,0,0]"
-                                    data-paddingleft="[15,15,15,15]"
-                                    data-paddingright="[0,0,0,0]"
-                                    data-paddingtop="[0,0,0,0]"
-                                    data-responsive_offset="on"
-                                    data-type="text"
-                                    data-height="none"
-                                    data-width="['750','750','750','450']"
-                                    data-whitespace="normal"
-                                    data-hoffset="['0','0','0','0']"
-                                    data-voffset="['30','30','60','70']"
-                                    data-x="['left','left','left','left']"
-                                    data-y="['middle','middle','middle','middle']"
-                                    data-textalign="['top','top','top','top']"
-                                    data-frames="[{&quot;delay&quot;:1000,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
-                                >
-                                    <span class="text">Grow your Business With Us Best Business Solutions</span>
-                                </div>
-
-                                <div
-                                    class="tp-caption"
-                                    data-paddingbottom="[0,0,0,0]"
-                                    data-paddingleft="[15,15,15,15]"
-                                    data-paddingright="[15,15,15,15]"
-                                    data-paddingtop="[0,0,0,0]"
-                                    data-responsive_offset="on"
-                                    data-type="text"
-                                    data-height="none"
-                                    data-width="['700','750','700','650']"
-                                    data-whitespace="normal"
-                                    data-hoffset="['0','0','0','0']"
-                                    data-voffset="['120','120','150','170']"
-                                    data-x="['left','left','left','left']"
-                                    data-y="['middle','middle','middle','middle']"
-                                    data-textalign="['top','top','top','top']"
-                                    data-frames="[{&quot;delay&quot;:1000,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:300,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
-                                >
-                                    <a href="page-about.html" class="theme-btn btn-style-one"><span class="btn-title">Learn More <i class="fa fa-angle-double-right" /></span></a>
-                                    <a href="page-services.html" class="theme-btn btn-style-two"><span class="btn-title">Our Services <i class="fa fa-angle-double-right" /></span></a>
                                 </div>
                             </li>
                         </ul>
+                    </div>
+                </div>
+            </section> -->
+
+            <section class="bg-[url('/images/main-slider/main-bg.jpg')] bg-cover h-screen flex flex-col">
+                <div class="auto-container pt-[12%] grid grid-cols-2">
+                    <div class="relative">
+                        <img class="absolute right-5 -top-[60px]" src="/images/main-slider/object-4.png" alt="">
+                        <h1 class="text-white mb-0 font-semibold">
+                            We Provide <br>Smart Business<br> Solutions
+                        </h1>
+                        <span class="text-white font-medium text-xl block mt-6 mb-8">Grow your Business With Us Best Business Solutions</span>
+                        <div class="flex gap-4">
+                            <a href="#" class="theme-btn btn-style-one text-white">
+                                <span class="btn-title">Learn More <i class="fa fa-angle-double-right" /></span>
+                            </a>
+                            <a href="#" class="theme-btn btn-style-two text-white">
+                                <span class="btn-title">Our Services <i class="fa fa-angle-double-right" /></span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="relative">
+                        <div class="relative -right-20">
+                            <img class="w-full scale-125 " src="/images/main-slider/main-image.png" alt="">
+                        </div>
                     </div>
                 </div>
             </section>
@@ -698,19 +477,19 @@
                         <!--clients carousel-->
                         <ul class="clients-carousel owl-carousel owl-theme">
                             <li class="slide-item">
-                                <a href="#"><img src="images/resource/client-1.png" alt=""></a>
+                                <a href="#"><img src="/images/resource/client-1.png" alt=""></a>
                             </li>
                             <li class="slide-item">
-                                <a href="#"><img src="images/resource/client-2.png" alt=""></a>
+                                <a href="#"><img src="/images/resource/client-2.png" alt=""></a>
                             </li>
                             <li class="slide-item">
-                                <a href="#"><img src="images/resource/client-3.png" alt=""></a>
+                                <a href="#"><img src="/images/resource/client-3.png" alt=""></a>
                             </li>
                             <li class="slide-item">
-                                <a href="#"><img src="images/resource/client-4.png" alt=""></a>
+                                <a href="#"><img src="/images/resource/client-4.png" alt=""></a>
                             </li>
                             <li class="slide-item">
-                                <a href="#"><img src="images/resource/client-5.png" alt=""></a>
+                                <a href="#"><img src="/images/resource/client-5.png" alt=""></a>
                             </li>
                         </ul>
                     </div>
@@ -727,7 +506,7 @@
                             <div class="image-box">
                                 <div class="bg-icon-one zoom-one" />
                                 <figure class="image wow fadeInLeft">
-                                    <img src="images/resource/image-1.png" alt="">
+                                    <img src="/images/resource/image-1.png" alt="">
                                 </figure>
                             </div>
                         </div>
@@ -746,7 +525,7 @@
                                         <div class="inner-box ">
                                             <div class="content">
                                                 <figure class="icon">
-                                                    <img src="images/resource/feature-1.png" alt="">
+                                                    <img src="/images/resource/feature-1.png" alt="">
                                                 </figure>
                                                 <h4 class="title">
                                                     <a href="page-service-details.html">Business Growth</a>
@@ -763,7 +542,7 @@
                                         <div class="inner-box ">
                                             <div class="content">
                                                 <figure class="icon">
-                                                    <img src="images/resource/feature-2.png" alt="">
+                                                    <img src="/images/resource/feature-2.png" alt="">
                                                 </figure>
                                                 <h4 class="title">
                                                     <a href="page-service-details.html">User Research</a>
@@ -780,7 +559,7 @@
                                         <div class="inner-box ">
                                             <div class="content">
                                                 <figure class="icon">
-                                                    <img src="images/resource/feature-3.png" alt="">
+                                                    <img src="/images/resource/feature-3.png" alt="">
                                                 </figure>
                                                 <h4 class="title">
                                                     <a href="page-service-details.html">Big Data Solution</a>
@@ -797,7 +576,7 @@
                                         <div class="inner-box ">
                                             <div class="content">
                                                 <figure class="icon">
-                                                    <img src="images/resource/feature-4.png" alt="">
+                                                    <img src="/images/resource/feature-4.png" alt="">
                                                 </figure>
                                                 <h4 class="title">
                                                     <a href="page-service-details.html">Product Design</a>
@@ -852,7 +631,7 @@
                         <div class="image-column col-xl-6 col-lg-5 col-md-12 col-sm-12" data-wow-delay="300ms">
                             <div class="inner-column wow fadeInRight">
                                 <figure class="image wow fadeInUp">
-                                    <img src="images/resource/about-1.png" alt="">
+                                    <img src="/images/resource/about-1.png" alt="">
                                 </figure>
                             </div>
                         </div>
@@ -874,10 +653,10 @@
                         <div class="image-column col-lg-6 col-md-12 col-sm-12 wow fadeInLeft">
                             <div class="image-box">
                                 <figure class="main-image">
-                                    <img src="images/resource/service-graph.png" alt="">
+                                    <img src="/images/resource/service-graph.png" alt="">
                                 </figure>
                                 <figure class="icon-image zoom-two">
-                                    <img src="images/icons/bg-icon-two.png" alt="">
+                                    <img src="/images/icons/bg-icon-two.png" alt="">
                                 </figure>
                             </div>
                         </div>
@@ -890,7 +669,7 @@
                                     <div class="inner-box">
                                         <div class="content">
                                             <figure class="icon">
-                                                <img src="images/resource/service-icon-1.png" alt="">
+                                                <img src="/images/resource/service-icon-1.png" alt="">
                                             </figure>
                                             <h4 class="title">
                                                 <a href="page-service-details.htmlpage-pricing.html">Graphics Design</a>
@@ -908,7 +687,7 @@
                                     <div class="inner-box">
                                         <div class="content">
                                             <figure class="icon">
-                                                <img src="images/resource/service-icon-2.png" alt="">
+                                                <img src="/images/resource/service-icon-2.png" alt="">
                                             </figure>
                                             <h4 class="title">
                                                 <a href="page-service-details.htmlpage-pricing.html">Ideation & Evaluation</a>
@@ -926,7 +705,7 @@
                                     <div class="inner-box">
                                         <div class="content">
                                             <figure class="icon">
-                                                <img src="images/resource/service-icon-3.png" alt="">
+                                                <img src="/images/resource/service-icon-3.png" alt="">
                                             </figure>
                                             <h4 class="title">
                                                 <a href="page-service-details.htmlpage-pricing.html">Brand Identity</a>
@@ -944,7 +723,7 @@
                                     <div class="inner-box">
                                         <div class="content">
                                             <figure class="icon">
-                                                <img src="images/resource/service-icon-4.png" alt="">
+                                                <img src="/images/resource/service-icon-4.png" alt="">
                                             </figure>
                                             <h4 class="title">
                                                 <a href="page-service-details.htmlpage-pricing.html">Custome Service</a>
@@ -962,7 +741,7 @@
                                     <div class="inner-box">
                                         <div class="content">
                                             <figure class="icon">
-                                                <img src="images/resource/service-icon-5.png" alt="">
+                                                <img src="/images/resource/service-icon-5.png" alt="">
                                             </figure>
                                             <h4 class="title">
                                                 <a href="page-service-details.htmlpage-pricing.html">Web Strategy</a>
@@ -984,7 +763,7 @@
             <!-- Fun Fact Section -->
             <section class="fun-fact-section">
                 <div class="outer-box">
-                    <div class="bg bg-pattern-2" />
+                    <div class="absolute w-full h-full bg-cover top-0 bg-[url('/images/icons/pattern-2.png')]" />
                     <div class="anim-icons">
                         <span class="icon icon-circle-2 bounce-x" />
                         <span class="icon icon-circle-3 bounce-y" />
@@ -1073,7 +852,7 @@
                                         $15 <sub>/monthly</sub>
                                     </h2>
                                     <figure class="image">
-                                        <img src="images/resource/pricing-icon-1.png" alt="">
+                                        <img src="/images/resource/pricing-icon-1.png" alt="">
                                     </figure>
                                 </div>
                                 <div class="info-box">
@@ -1102,7 +881,7 @@
                                         $24 <sub>/monthly</sub>
                                     </h2>
                                     <figure class="image">
-                                        <img src="images/resource/pricing-icon-2.png" alt="">
+                                        <img src="/images/resource/pricing-icon-2.png" alt="">
                                     </figure>
                                 </div>
                                 <div class="info-box">
@@ -1131,7 +910,7 @@
                                         $73 <sub>/monthly</sub>
                                     </h2>
                                     <figure class="image">
-                                        <img src="images/resource/pricing-icon-3.png" alt="">
+                                        <img src="/images/resource/pricing-icon-3.png" alt="">
                                     </figure>
                                 </div>
                                 <div class="info-box">
@@ -1160,7 +939,7 @@
                                         $99 <sub>/monthly</sub>
                                     </h2>
                                     <figure class="image">
-                                        <img src="images/resource/pricing-icon-4.png" alt="">
+                                        <img src="/images/resource/pricing-icon-4.png" alt="">
                                     </figure>
                                 </div>
                                 <div class="info-box">
@@ -1200,7 +979,7 @@
                                         <div class="inner-box">
                                             <div class="image-box">
                                                 <figure class="image">
-                                                    <a href="page-team-details.html"><img src="images/resource/team-1.jpg" alt=""></a>
+                                                    <a href="page-team-details.html"><img src="/images/resource/team-1.jpg" alt=""></a>
                                                 </figure>
                                                 <div class="social-links">
                                                     <a href="#"><i class="fab fa-twitter" /></a>
@@ -1226,7 +1005,7 @@
                                         <div class="inner-box">
                                             <div class="image-box">
                                                 <figure class="image">
-                                                    <a href="page-team-details.html"><img src="images/resource/team-2.jpg" alt=""></a>
+                                                    <a href="page-team-details.html"><img src="/images/resource/team-2.jpg" alt=""></a>
                                                 </figure>
                                                 <div class="social-links">
                                                     <a href="#"><i class="fab fa-twitter" /></a>
@@ -1252,7 +1031,7 @@
                                         <div class="inner-box">
                                             <div class="image-box">
                                                 <figure class="image">
-                                                    <a href="page-team-details.html"><img src="images/resource/team-3.jpg" alt=""></a>
+                                                    <a href="page-team-details.html"><img src="/images/resource/team-3.jpg" alt=""></a>
                                                 </figure>
                                                 <div class="social-links">
                                                     <a href="#"><i class="fab fa-twitter" /></a>
@@ -1278,7 +1057,7 @@
                                         <div class="inner-box">
                                             <div class="image-box">
                                                 <figure class="image">
-                                                    <a href="page-team-details.html"><img src="images/resource/team-1.jpg" alt=""></a>
+                                                    <a href="page-team-details.html"><img src="/images/resource/team-1.jpg" alt=""></a>
                                                 </figure>
                                                 <div class="social-links">
                                                     <a href="#"><i class="fab fa-twitter" /></a>
@@ -1304,7 +1083,7 @@
                                         <div class="inner-box">
                                             <div class="image-box">
                                                 <figure class="image">
-                                                    <a href="page-team-details.html"><img src="images/resource/team-2.jpg" alt=""></a>
+                                                    <a href="page-team-details.html"><img src="/images/resource/team-2.jpg" alt=""></a>
                                                 </figure>
                                                 <div class="social-links">
                                                     <a href="#"><i class="fab fa-twitter" /></a>
@@ -1330,7 +1109,7 @@
                                         <div class="inner-box">
                                             <div class="image-box">
                                                 <figure class="image">
-                                                    <a href="page-team-details.html"><img src="images/resource/team-3.jpg" alt=""></a>
+                                                    <a href="page-team-details.html"><img src="/images/resource/team-3.jpg" alt=""></a>
                                                 </figure>
                                                 <div class="social-links">
                                                     <a href="#"><i class="fab fa-twitter" /></a>
@@ -1374,7 +1153,7 @@
                                     <div class="testimonial-block">
                                         <div class="inner-box">
                                             <figure class="image">
-                                                <img src="images/resource/testi-5.jpg" alt="">
+                                                <img src="/images/resource/testi-5.jpg" alt="">
                                             </figure>
                                             <div class="content-box">
                                                 <div class="upper-box">
@@ -1406,7 +1185,7 @@
                                     <div class="testimonial-block">
                                         <div class="inner-box">
                                             <figure class="image">
-                                                <img src="images/resource/testi-5.jpg" alt="">
+                                                <img src="/images/resource/testi-5.jpg" alt="">
                                             </figure>
                                             <div class="content-box">
                                                 <div class="upper-box">
@@ -1438,7 +1217,7 @@
                                     <div class="testimonial-block">
                                         <div class="inner-box">
                                             <figure class="image">
-                                                <img src="images/resource/testi-5.jpg" alt="">
+                                                <img src="/images/resource/testi-5.jpg" alt="">
                                             </figure>
                                             <div class="content-box">
                                                 <div class="upper-box">
@@ -1474,10 +1253,10 @@
                             <div class="inner-column wow fadeInUp">
                                 <span class="bg-icon-three zoom-one" />
                                 <figure class="image">
-                                    <img src="images/resource/testimonial.png" alt="">
+                                    <img src="/images/resource/testimonial.png" alt="">
                                 </figure>
                                 <figure class="image-2">
-                                    <img src="images/resource/testimonial-2.jpg" alt="">
+                                    <img src="/images/resource/testimonial-2.jpg" alt="">
                                 </figure>
                             </div>
                         </div>
@@ -1500,7 +1279,7 @@
                             <div class="inner-box">
                                 <div class="image-box">
                                     <figure class="image">
-                                        <a href="news-details.html"><img src="images/resource/news-1.jpg" alt=""></a>
+                                        <a href="news-details.html"><img src="/images/resource/news-1.jpg" alt=""></a>
                                     </figure>
                                     <a href="news-details.html" class="read-more"><i class="fa fa-arrow-right" /></a>
                                 </div>
@@ -1514,7 +1293,7 @@
                                     </h3>
                                     <div class="author-box">
                                         <figure class="thumb">
-                                            <img src="images/resource/avatar-1.jpg" alt="">
+                                            <img src="/images/resource/avatar-1.jpg" alt="">
                                         </figure>
                                         <h6 class="name">
                                             Thomas P. Forbis
@@ -1529,7 +1308,7 @@
                             <div class="inner-box">
                                 <div class="image-box">
                                     <figure class="image">
-                                        <a href="news-details.html"><img src="images/resource/news-2.jpg" alt=""></a>
+                                        <a href="news-details.html"><img src="/images/resource/news-2.jpg" alt=""></a>
                                     </figure>
                                     <a href="news-details.html" class="read-more"><i class="fa fa-arrow-right" /></a>
                                 </div>
@@ -1543,7 +1322,7 @@
                                     </h3>
                                     <div class="author-box">
                                         <figure class="thumb">
-                                            <img src="images/resource/avatar-2.jpg" alt="">
+                                            <img src="/images/resource/avatar-2.jpg" alt="">
                                         </figure>
                                         <h6 class="name">
                                             Bryan A. Costello
