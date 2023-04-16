@@ -439,11 +439,11 @@
                 </div>
             </section> -->
 
-            <section class="bg-[url('/images/main-slider/main-bg.jpg')] bg-cover h-screen flex flex-col">
-                <div class="auto-container pt-[12%] grid grid-cols-2">
+            <section class="bg-[#0e1e2a] sm:bg-transparent sm:bg-[url('/images/main-slider/main-bg.jpg')] bg-cover py-20 sm:p-0 sm:h-screen flex flex-col">
+                <div class="auto-container pt-[12%] grid grid-cols-1 sm:grid-cols-2">
                     <div class="relative">
-                        <img class="absolute right-5 -top-[60px]" src="/images/main-slider/object-4.png" alt="">
-                        <h1 class="text-white mb-0 font-semibold">
+                        <img class="absolute hidden sm:block right-5 -top-[60px]" src="/images/main-slider/object-4.png" alt="">
+                        <h1 class="text-white mb-0 font-semibold !text-[62px] sm:!text-[70px]">
                             We Provide <br>Smart Business<br> Solutions
                         </h1>
                         <span class="text-white font-medium text-xl block mt-6 mb-8">Grow your Business With Us Best Business Solutions</span>
@@ -456,7 +456,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="relative">
+                    <div class="relative hidden sm:block">
                         <div class="relative -right-20">
                             <img class="w-full scale-125 " src="/images/main-slider/main-image.png" alt="">
                         </div>
@@ -864,7 +864,7 @@
                                         $15 <sub>/monthly</sub>
                                     </h2>
                                     <figure class="image">
-                                        <img src="/images/resource/pricing-icon-1.png" alt="">
+                                        <img class="mx-auto !sm:mx-[0px]" src="/images/resource/pricing-icon-1.png" alt="">
                                     </figure>
                                 </div>
                                 <div class="info-box">
@@ -896,7 +896,7 @@
                                         $24 <sub>/monthly</sub>
                                     </h2>
                                     <figure class="image">
-                                        <img src="/images/resource/pricing-icon-2.png" alt="">
+                                        <img class="mx-auto !sm:mx-[0px]" src="/images/resource/pricing-icon-2.png" alt="">
                                     </figure>
                                 </div>
                                 <div class="info-box">
@@ -925,7 +925,7 @@
                                         $73 <sub>/monthly</sub>
                                     </h2>
                                     <figure class="image">
-                                        <img src="/images/resource/pricing-icon-3.png" alt="">
+                                        <img class="mx-auto !sm:mx-[0px]" src="/images/resource/pricing-icon-3.png" alt="">
                                     </figure>
                                 </div>
                                 <div class="info-box">
@@ -954,7 +954,7 @@
                                         $99 <sub>/monthly</sub>
                                     </h2>
                                     <figure class="image">
-                                        <img src="/images/resource/pricing-icon-4.png" alt="">
+                                        <img class="mx-auto !sm:mx-[0px]" src="/images/resource/pricing-icon-4.png" alt="">
                                     </figure>
                                 </div>
                                 <div class="info-box">

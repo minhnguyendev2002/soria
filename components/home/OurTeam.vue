@@ -153,31 +153,24 @@
                     arrows: true,
                     slidesToShow: 3,
                     slidesToScroll: 1,
-                    // responsive: [
-                    //     {
-                    //         breakpoint: 1080,
-                    //         settings: {
-                    //             slidesToShow: 4,
-                    //             slidesToScroll: 4,
-                    //         },
-                    //     },
-                    //     {
-                    //         breakpoint: 800,
-                    //         settings: {
-                    //             slidesToScroll: 3,
-                    //             slidesToShow: 3,
-                    //             arrows: false,
-                    //         },
-                    //     },
-                    //     {
-                    //         breakpoint: 640,
-                    //         settings: {
-                    //             slidesToShow: 2,
-                    //             slidesToScroll: 1,
-                    //             arrows: false,
-                    //         },
-                    //     },
-                    // ],
+                    responsive: [
+                        {
+                            breakpoint: 640,
+                            settings: {
+                                slidesToShow: 2,
+                                slidesToScroll: 1,
+                                arrows: false,
+                            },
+                        },
+                        {
+                            breakpoint: 400,
+                            settings: {
+                                slidesToShow: 1,
+                                slidesToScroll: 1,
+                                arrows: false,
+                            },
+                        },
+                    ],
                 },
             };
         },
