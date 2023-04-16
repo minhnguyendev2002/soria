@@ -291,9 +291,9 @@
 .text-italic:before {
   content: "\e957";
 }
-.text:before {
+/* .text:before {
   content: "\e958";
-}
+} */
 .text-block:before {
   content: "\e959";
 }
@@ -315,9 +315,9 @@
 .textalign-center:before {
   content: "\e95f";
 }
-.text:before {
+/* .text:before {
   content: "\e960";
-}
+} */
 .teacher:before {
   content: "\e961";
 }

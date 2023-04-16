@@ -9,7 +9,6 @@
                         </figure>
                         <div class="content-box">
                             <div class="upper-box">
-                                <span class="icon icon-quote" />
                                 <div class="rating-box">
                                     <span class="reason">Good Quality</span>
                                     <div class="rating">
@@ -23,7 +22,7 @@
                                 beatae vitae
                             </div>
                             <div class="info-box">
-                                <span class="icon-chat" />
+                                <span class="icon-chat bg-[url('/images/icons/icon-chat.png')]" />
                                 <h4 class="name">
                                     Gars G. Bernhardt
                                 </h4>
@@ -40,7 +39,6 @@
                         </figure>
                         <div class="content-box">
                             <div class="upper-box">
-                                <span class="icon icon-quote" />
                                 <div class="rating-box">
                                     <span class="reason">Good Quality</span>
                                     <div class="rating">
@@ -54,7 +52,7 @@
                                 beatae vitae
                             </div>
                             <div class="info-box">
-                                <span class="icon-chat" />
+                                <span class="icon-chat bg-[url('/images/icons/icon-chat.png')]" />
                                 <h4 class="name">
                                     Gars G. Bernhardt
                                 </h4>
@@ -71,7 +69,6 @@
                         </figure>
                         <div class="content-box">
                             <div class="upper-box">
-                                <span class="icon icon-quote" />
                                 <div class="rating-box">
                                     <span class="reason">Good Quality</span>
                                     <div class="rating">
@@ -85,7 +82,7 @@
                                 beatae vitae
                             </div>
                             <div class="info-box">
-                                <span class="icon-chat" />
+                                <span class="icon-chat bg-[url('/images/icons/icon-chat.png')]" />
                                 <h4 class="name">
                                     Gars G. Bernhardt
                                 </h4>

@@ -48,7 +48,6 @@ export default {
     },
     css: [
         '@/assets/main.scss',
-        '@/assets/custom.scss',
         '@/assets/ant/main.less',
         '@fortawesome/fontawesome-free/css/all.css',
     ],
