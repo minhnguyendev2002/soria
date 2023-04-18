@@ -17,7 +17,7 @@ export default {
     },
 
     head: {
-        title: 'ezi-hotel',
+        title: 'Soria | Technology and Future',
         htmlAttrs: {
             lang: 'en',
         },

@@ -829,11 +829,5 @@
             TestSlide,
             OurTeamSlide,
         },
-
-        head() {
-            return {
-                title: 'Dashboard | Nuxt Boilerplate',
-            };
-        },
     };
 </script>
