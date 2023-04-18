@@ -8227,7 +8227,7 @@ table.tbl-shopping-cart .product-thumbnail, table.cart-total .product-thumbnail 
   }
   .page-breadcrumb li:after {
     position: absolute;
-    content: "\f105";
+    content: "/";
     right: -6px;
     top: 1px;
     color: #ffffff;

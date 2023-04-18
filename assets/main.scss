@@ -73,3 +73,9 @@ h6 {
 .shadow-light {
     box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.1);
 }
+
+@media (min-width: 1400px) {
+    .container {
+        max-width:1320px !important;
+    }
+}

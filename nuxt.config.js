@@ -93,7 +93,7 @@ export default {
 
     buildModules: [
         '@nuxt/postcss8',
-        // '@nuxtjs/eslint-module',
+        '@nuxtjs/eslint-module',
         '@nuxtjs/fontawesome',
         '@nuxtjs/tailwindcss',
         '@nuxtjs/google-analytics',

@@ -5,7 +5,7 @@
             <div class="main-box">
                 <div class="logo-box">
                     <div class="logo">
-                        <a href="index.html"><img src="images/logo.png" alt="" title="Tronis"></a>
+                        <a href="index.html"><img src="/images/logo.png" alt="" title="Tronis"></a>
                     </div>
                 </div>
 
@@ -14,39 +14,45 @@
                     <nav class="nav main-menu">
                         <ul class="navigation">
                             <li class="current dropdown">
-                                <a href="index.html">Home</a>
+                                <a href="index.html">Home <i class="fas fa-angle-down text-white text-xs !leading-[28px] ml-2" /></a>
+
                                 <ul>
                                     <li><a href="index.html">Home page 01</a></li>
                                     <li><a href="index-2.html">Home page 02</a></li>
                                     <li class="dropdown">
-                                        <a href="#">Single</a>
+                                        <a href="#">Single <i class="fas fa-angle-down text-white text-xs !leading-[28px] ml-2" /></a>
+
                                         <ul>
                                             <li><a href="index-1-single.html">Home Single 1</a></li>
                                             <li><a href="index-2-single.html">Home Single 2</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown">
-                                        <a href="#">Dark</a>
+                                        <a href="#">Dark <i class="fas fa-angle-down text-white text-xs !leading-[28px] ml-2" /></a>
+
                                         <ul>
                                             <li><a href="index-1-dark.html">Home Dark 1</a></li>
                                             <li><a href="index-2-dark.html">Home Dark 2</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown">
-                                        <a href="#">Boxed</a>
+                                        <a href="#">Boxed <i class="fas fa-angle-down text-white text-xs !leading-[28px] ml-2" /></a>
+
                                         <ul>
                                             <li><a href="index-1-boxed.html">Home Boxed 1</a></li>
                                             <li><a href="index-2-boxed.html">Home Boxed 2</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown">
-                                        <a href="#">RTL</a>
+                                        <a href="#">RTL <i class="fas fa-angle-down text-white text-xs !leading-[28px] ml-2" /></a>
+
                                         <ul>
                                             <li><a href="index-1-rtl.html">Home RTL 1</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown">
-                                        <a href="#">Header Styles</a>
+                                        <a href="#">Header Styles <i class="fas fa-angle-down text-white text-xs !leading-[28px] ml-2" /></a>
+
                                         <ul>
                                             <li><a href="index.html">Header Style One</a></li>
                                             <li><a href="index-2.html">Header Style Two</a></li>
@@ -55,18 +61,21 @@
                                 </ul>
                             </li>
                             <li class="dropdown">
-                                <a href="page-about.html">Pages</a>
+                                <a href="page-about.html">Pages <i class="fas fa-angle-down text-white text-xs !leading-[28px] ml-2" /></a>
+
                                 <ul>
                                     <li><a href="page-about.html">About</a></li>
                                     <li class="dropdown">
-                                        <a href="page-team.html">Team</a>
+                                        <a href="page-team.html">Team <i class="fas fa-angle-down text-white text-xs !leading-[28px] ml-2" /></a>
+
                                         <ul>
                                             <li><a href="page-team.html">Team Grid</a></li>
                                             <li><a href="page-team-details.html">Team Details</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown">
-                                        <a href="shop-products.html">Shop</a>
+                                        <a href="shop-products.html">Shop <i class="fas fa-angle-down text-white text-xs !leading-[28px] ml-2" /></a>
+
                                         <ul>
                                             <li><a href="shop-products.html">Products</a></li>
                                             <li><a href="shop-products-sidebar.html">Products with Sidebar</a></li>
@@ -82,21 +91,24 @@
                                 </ul>
                             </li>
                             <li class="dropdown">
-                                <a href="page-services.html">Services</a>
+                                <a href="page-services.html">Services <i class="fas fa-angle-down text-white text-xs !leading-[28px] ml-2" /></a>
+
                                 <ul>
                                     <li><a href="page-services.html">Services Grid</a></li>
                                     <li><a href="page-service-details.html">Service Details</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown">
-                                <a href="page-projects.html">Projects</a>
+                                <a href="page-projects.html">Projects <i class="fas fa-angle-down text-white text-xs !leading-[28px] ml-2" /></a>
+
                                 <ul>
                                     <li><a href="page-projects.html">Projects Grid</a></li>
                                     <li><a href="page-project-details.html">Project Details</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown">
-                                <a href="news-grid.html">News</a>
+                                <a href="news-grid.html">News <i class="fas fa-angle-down text-white text-xs !leading-[28px] ml-2" /></a>
+
                                 <ul>
                                     <li><a href="news-grid.html">News Grid</a></li>
                                     <li><a href="news-details.html">News Details</a></li>
@@ -113,7 +125,7 @@
                         <span class="icon lnr lnr-icon-search" />
                     </button>
 
-                    <a href="page-contact.html" class="theme-btn btn-style-one"><span class="btn-title">Get a Quote <i class="fa fa-angle-double-right" /></span></a>
+                    <a href="page-contact.html" class="theme-btn btn-style-one"><span class="btn-title">Get a Quote <i class="fas fa-angle-double-right" /></span></a>
 
                     <button class="ui-btn ui-btn toggle-hidden-bar">
                         <span class="icon lnr lnr-icon-bars" />
@@ -135,10 +147,10 @@
             <nav class="menu-box">
                 <div class="upper-box">
                     <div class="nav-logo">
-                        <a href="index.html"><img src="images/logo.png" alt="" title=""></a>
+                        <a href="index.html"><img src="/images/logo.png" alt="" title=""></a>
                     </div>
                     <div class="close-btn">
-                        <i class="icon fa fa-times" />
+                        <i class="icon fas fa-times" />
                     </div>
                 </div>
 
@@ -185,7 +197,7 @@
         <div class="search-popup">
             <span class="search-back-drop" />
             <button class="close-search">
-                <span class="fa fa-times" />
+                <span class="fas fa-times" />
             </button>
 
             <div class="search-inner">
@@ -199,7 +211,7 @@
                             required=""
                         >
                         <button type="submit">
-                            <i class="fa fa-search" />
+                            <i class="fas fa-search" />
                         </button>
                     </div>
                 </form>
@@ -213,7 +225,7 @@
                 <div class="inner-container">
                     <!--Logo-->
                     <div class="logo">
-                        <a href="index.html" title=""><img src="images/logo-2.png" alt="" title=""></a>
+                        <a href="index.html" title=""><img src="/images/logo-2.png" alt="" title=""></a>
                     </div>
 
                     <!--Right Col-->

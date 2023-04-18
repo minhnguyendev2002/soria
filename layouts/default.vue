@@ -1,17 +1,21 @@
 <template>
-    <nuxt />
+    <div>
+        <TheHeader />
+        <nuxt />
+        <TheFooter />
+    </div>
 </template>
 
 <script>
     // import TheSidebar from '@/components/layout/TheSidebar.vue';
-    // import TheHeader from '@/components/layout/TheHeader.vue';
-    // import TheFooter from '@/components/layout/TheFooter.vue';
+    import TheHeader from '@/components/layout/TheHeader.vue';
+    import TheFooter from '@/components/layout/TheFooter.vue';
 
     export default {
         components: {
             // TheSidebar,
-            // TheHeader,
-            // TheFooter,
+            TheHeader,
+            TheFooter,
         },
     };
 </script>
